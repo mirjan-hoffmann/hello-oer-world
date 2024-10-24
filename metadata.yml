@@ -1,22 +1,30 @@
----
-name: "Hello OER world"
+'@context': https://schema.org/
+creativeWorkStatus: Published
+type: LearningResource
+name: Hello OER World
+description: >-
+  A little story-based game about learning Markdown together with the main
+  character, based in Play2Learn's Solar Fleet Akademy fictional world.
+license: https://creativecommons.org/licenses/by-sa/4.0/deed.de
+id: https://play2learnagain.github.io/hello-oer-world/
 creator:
-  - givenName: "Erik Play2Learn"
-    familyName: "Bernoth"
-  - givenName: "Gemini"
-publisher:
-  givenName: "Play2Learn"
-  familyName: "Mustermann"
+  - givenName: Erik Play2Learn
+    familyName: Bernoth
+    type: Person
+    affiliation: ''
 keywords:
-  - "Fiction"
-  - "Solar Punk"
-  - "Science Fiction"
-  - "Education"
-  - "Markdown"
-description: "Draft for an educational game about learning Markdown"
-inLanguage: "en"
-version: 1.0
-license: "https://creativecommons.org/licenses/by-sa/4.0/"
-thumbnailUrl: http://placehold.it/100x100
-learningResourceType: "Course"
-creativeWorkStatus: "Published" # Incomplete, Draft, Published
+  - education
+  - game
+  - scifi
+  - solar-punk
+inLanguage:
+  - en
+about:
+  - https://w3id.org/kim/hochschulfaechersystematik/n079
+image: >-
+  https://github.com/Play2LearnAgain/hello-oer-world/blob/main/Leonardo_Phoenix_Chapter_1This_is_the_22nd_century_Earth_Huma_0_no_text.jpg?raw=true
+learningResourceType:
+  - https://w3id.org/kim/hcrt/educational_game
+educationalLevel:
+  - https://w3id.org/kim/educationalLevel/level_A
+datePublished: '2024-10-24'
