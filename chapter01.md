@@ -1,17 +1,8 @@
-# Pythagorean theorem
+# Chapter 1
 
-## Representation
+![](https://github.com/Play2LearnAgain/hello-oer-world/blob/main/Leonardo_Phoenix_Chapter_1This_is_the_22nd_century_Earth_Huma_0_no_text.jpg?raw=true)
 
-![Representation of the Pythagorean Theorem](https://upload.wikimedia.org/wikipedia/commons/d/d1/01-Rechtwinkliges_Dreieck-Pythagoras.svg)  
+This is the 22nd century, Earth. Humans have developed space travel in the solar system and started to build colonies on Mars and the Belt. The Solar Fleet connects the different human civilizations. On Earth is the Solar Fleet Akademy, a place where future crewmembers of the fleet's ships are educated.
 
-![Tree at the lake](https://upload.wikimedia.org/wikipedia/commons/c/c1/Regnitz-Baum-1012073.jpg)
 
-![Petri net](https://upload.wikimedia.org/wikipedia/commons/0/08/PetriNetzVentil.png)
-
-## The formula
-
-```math
-a^2 + b^2 = c^2
-```
-
-see [chapter 4](chapter04.md#assignment)
+One of its professors, Samuel, has discovered that he cannot help all of his students manually. And so he started thinking about how to automate the process of sharing his knowledge. Currently he's learning markdown.
