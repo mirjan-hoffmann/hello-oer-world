@@ -1,21 +1,22 @@
 ---
-name: "My OER Course"
+name: "Hello OER world"
 creator:
-  - givenName: "Max"
-    familyName: "Mustermann"
-  - givenName: "Maxi"
-    familyName: "Mustermann"
+  - givenName: "Erik Play2Learn"
+    familyName: "Bernoth"
+  - givenName: "Gemini"
 publisher:
-  givenName: "Max"
+  givenName: "Play2Learn"
   familyName: "Mustermann"
 keywords:
-  - "Geometry"
-  - "Pythagoras"
-  - "Mathematics"
-description: "Draft for a course"
+  - "Fiction"
+  - "Solar Punk"
+  - "Science Fiction"
+  - "Education"
+  - "Markdown"
+description: "Draft for an educational game about learning Markdown"
 inLanguage: "en"
 version: 1.0
-license: "https://creativecommons.org/publicdomain/zero/1.0/"
+license: "https://creativecommons.org/licenses/by-sa/4.0/"
 thumbnailUrl: http://placehold.it/100x100
 learningResourceType: "Course"
-creativeWorkStatus: "Draft" # Incomplete, Draft, Published
+creativeWorkStatus: "Published" # Incomplete, Draft, Published
